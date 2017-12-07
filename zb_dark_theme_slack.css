@@ -5,7 +5,6 @@ ts-jumper input[type="text"],
 .feature_sli_file_search #search_results.all, .feature_sli_file_search #search_results.messages,
 .feature_sli_file_search #search_results.files{
   background: #333 !important;
-  color: #eee !important;
 }
 
 .feature_sli_file_search #search_results.all .search_message_result, .feature_sli_file_search #search_results.messages .search_message_result,
@@ -35,7 +34,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
 
 .light_theme ts-message .message_content a.message_sender, #msg_input::-webkit-input-placeholder,
 ts-jumper input[type="text"]::-webkit-input-placeholder {
-  color: #aaa !important;
+  color: #eee !important;
 }
 
 #msg_input, #primary_file_button {
