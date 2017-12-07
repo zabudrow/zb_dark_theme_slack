@@ -22,7 +22,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
 .message_body .internal_member_link:link,
 .comment .internal_member_link:link,
 .feature_name_tagging_client ts-message .internal_user_group_link{ 
-  color: #fff !important;
+  color: #eee !important;
 }
 
 .message_body .internal_member_link:link,
