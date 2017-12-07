@@ -5,6 +5,7 @@ ts-jumper input[type="text"],
 .feature_sli_file_search #search_results.all, .feature_sli_file_search #search_results.messages,
 .feature_sli_file_search #search_results.files{
   background: #333 !important;
+  color: #eee !important;
 }
 
 .feature_sli_file_search #search_results.all .search_message_result, .feature_sli_file_search #search_results.messages .search_message_result,
