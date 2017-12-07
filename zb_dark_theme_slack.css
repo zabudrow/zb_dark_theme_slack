@@ -4,7 +4,7 @@ ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 .feature_sli_file_search #search_results.all, .feature_sli_file_search #search_results.messages,
 .feature_sli_file_search #search_results.files{
-  background: #333 !important;
+  background: #eee !important;
 }
 
 .feature_sli_file_search #search_results.all .search_message_result, .feature_sli_file_search #search_results.messages .search_message_result,
