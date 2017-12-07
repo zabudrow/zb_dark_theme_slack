@@ -9,7 +9,7 @@ ts-jumper input[type="text"],
 
 .feature_sli_file_search #search_results.all .search_message_result, .feature_sli_file_search #search_results.messages .search_message_result,
 .flex_pane_showing #col_flex{
-    border-color: #eee !important;
+    border-color: #333 !important;
 }
 
 #client_body::before {
