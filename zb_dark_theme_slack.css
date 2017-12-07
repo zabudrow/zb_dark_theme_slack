@@ -4,7 +4,7 @@ ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 .feature_sli_file_search #search_results.all, .feature_sli_file_search #search_results.messages,
 .feature_sli_file_search #search_results.files{
-  background: #eee !important;
+    background: #333 !important;
 }
 
 .feature_sli_file_search #search_results.all .search_message_result, .feature_sli_file_search #search_results.messages .search_message_result,
@@ -22,7 +22,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
 .message_body .internal_member_link:link,
 .comment .internal_member_link:link,
 .feature_name_tagging_client ts-message .internal_user_group_link{ 
-  color: #eee !important;
+  color: #fff !important;
 }
 
 .message_body .internal_member_link:link,
